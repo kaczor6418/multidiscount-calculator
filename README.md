@@ -1,2 +1,2 @@
-# multidiscount-calculator
-Calculator to make most cost optimal choice of multi-discount products set
+# mv-wi-azure-dev-ticket
+Script that allows moving Ticket with all related childrens from one srpint to another
